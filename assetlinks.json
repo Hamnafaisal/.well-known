@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hamna.cv.base",
+    "sha256_cert_fingerprints":
+    ["D1:2A:46:EE:96:16:1E:D9:59:16:9C:ED:C7:AF:C5:AC:B5:4C:0B:05:C8:0F:20:6F:90:32:0F:48:E4:55:AD:74"]
+  }
+}]
